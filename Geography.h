@@ -3,8 +3,7 @@
 
 #include "Coordinates.h"
 
-namespace geography
-{
+namespace geography {
 
 double GetDistance(Coordinates, Coordinates);
 

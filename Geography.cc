@@ -4,12 +4,10 @@
 
 #include "Coordinates.h"
 
-namespace geography
-{
+namespace geography {
 const static double EarthRadiusKm = 6372.8;
 
-double GetDistance(Coordinates From, Coordinates To)
-{
+double GetDistance(Coordinates From, Coordinates To) {
     double Lat1 = From.Latitude;
     double Lat2 = To.Latitude;
     double Lon1 = From.Longitude;

@@ -1,11 +1,9 @@
 #ifndef COORDINATES_H_INCLUDED
 #define COORDINATES_H_INCLUDED
 
-namespace geography
-{
+namespace geography {
 
-struct Coordinates
-{
+struct Coordinates {
     double Latitude;
     double Longitude;
 };
