@@ -1,7 +1,7 @@
 #ifndef GEOGRAPHY_H_INCLUDED
 #define GEOGRAPHY_H_INCLUDED
 
-#include "Coordinates.h"
+struct Coordinates;
 
 namespace geography {
 
