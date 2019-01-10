@@ -5,7 +5,7 @@
 
 namespace geography{
 
-static double GetDistance(Coordinates From, Coordinates To);
+double GetDistance(Coordinates, Coordinates);
 
 }
 #endif // GEOGRAPHY_H_INCLUDED
